@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, there once was a little girl, her name was Ruby.
+=======
+Hello
+There lived a little girl who did not like to be creative.
+>>>>>>> 6b228147c73f00fa3cd68027b48c7c2aa07578bc
