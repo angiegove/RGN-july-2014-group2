@@ -2,3 +2,7 @@ Hello, there once was a little girl, her name was Ruby.
 She did not like to be creative.
 She had a brother who biomedically engineered dragons.
 The dragons liked to eat her homework. =(
+---> this is the start of Bernice_branch
+Line 1:
+Line 2:
+Line 3:
