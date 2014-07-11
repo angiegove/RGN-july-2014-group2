@@ -9,7 +9,10 @@ At Ruby’s school, Michael told the teacher what happened, showing how pieces o
 homework was still stuck in Emerald’s teeth.
 And the teachers did not believe her or Michael.
 But one day, the school decided to host a bring your pet to school day.
+<<<<<<< HEAD
+Then her brother brought the dragons to the school. Mwhahahahahaahahahaha!
 So Ruby decided to bring her brother's dragon to school.
 Then her brother brought the dragons to the school. Mwhahaha!
 And she thought, finally she could prove Emerald had been eating her homework.
 So her brother brought the dragon to the school. Mwhahaha!
+
